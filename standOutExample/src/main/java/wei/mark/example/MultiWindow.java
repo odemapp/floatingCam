@@ -149,6 +149,10 @@ public class MultiWindow extends StandOutWindow {
                 android.R.anim.slide_out_right);
     }
 
+    // this is the "action bar menu" - here i will do :
+    // zoom in\out
+    // flash light on\off
+    // close the app
     @Override
     public List<DropDownListItem> getDropDownItems(int id) {
 

@@ -15,13 +15,16 @@ public final class R {
         public static int yellow=0x7f040001;
     }
     public static final class drawable {
-        public static int border=0x7f020000;
-        public static int border_focused=0x7f020001;
-        public static int close=0x7f020002;
-        public static int corner=0x7f020003;
-        public static int customborder=0x7f020004;
-        public static int hide=0x7f020005;
-        public static int maximize=0x7f020006;
+        public static int appicon=0x7f020000;
+        public static int border=0x7f020001;
+        public static int border_focused=0x7f020002;
+        public static int close=0x7f020003;
+        public static int corner=0x7f020004;
+        public static int cornericon=0x7f020005;
+        public static int customborder=0x7f020006;
+        public static int hide=0x7f020007;
+        public static int maximize=0x7f020008;
+        public static int minimizeicon=0x7f020009;
     }
     public static final class id {
         public static int body=0x7f070006;

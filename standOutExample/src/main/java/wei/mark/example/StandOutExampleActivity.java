@@ -18,19 +18,19 @@ public class StandOutExampleActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.d(TAG, "on create ");
-//		StandOutWindow.closeAll(this, SimpleWindow.class);
 //		StandOutWindow.closeAll(this, MultiWindow.class);
-		StandOutWindow.closeAll(this, WidgetsWindow.class);
+        StandOutWindow.closeAll(this, SimpleWindow.class);
+//        StandOutWindow.closeAll(this, WidgetsWindow.class);
 //        StandOutWindow.close(this, WidgetsWindow.class, 1);
 
 
         // show a MultiWindow, SimpleWindow
 
-//		StandOutWindow.show(this, SimpleWindow.class, StandOutWindow.DEFAULT_ID);
+		StandOutWindow.show(this, SimpleWindow.class, 0);
 
 //		StandOutWindow.show(this, MultiWindow.class, StandOutWindow.DEFAULT_ID);
 
-        StandOutWindow.show(this, WidgetsWindow.class, 1);
+//        StandOutWindow.show(this, WidgetsWindow.class, 1);
 
         finish();
 

@@ -77,6 +77,10 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:35:17
 	android:name
 		ADDED from AndroidManifest.xml:35:27
+service#wei.mark.example.SimpleWindow
+ADDED from AndroidManifest.xml:41:9
+	android:name
+		ADDED from AndroidManifest.xml:41:18
 service#wei.mark.example.WidgetsWindow
 ADDED from AndroidManifest.xml:42:9
 	android:name

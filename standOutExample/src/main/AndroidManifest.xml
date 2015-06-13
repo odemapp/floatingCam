@@ -37,7 +37,7 @@
         </activity>
 
         <!--<service android:name=".MultiWindow"></service>-->
-        <service android:name=".MostBasicWindow"></service>
+        <!--<service android:name=".MostBasicWindow"></service>-->
         <service android:name=".SimpleWindow"></service>
         <service android:name="WidgetsWindow" ></service>
     </application>

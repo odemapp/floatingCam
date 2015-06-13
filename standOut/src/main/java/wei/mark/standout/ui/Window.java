@@ -4,7 +4,6 @@ import android.content.Context;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
-import android.view.ContextMenu;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -13,7 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
+import android.widget.ImageButton;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
@@ -384,7 +383,7 @@ public class Window extends FrameLayout {
 
         //icon - to minimize the screen
         // icon
-        final Button iconMinimize = (Button) decorations
+        final ImageButton iconMinimize = (ImageButton) decorations
                 .findViewById(R.id.ic_minimize);
          iconMinimize.setOnClickListener(new OnClickListener() {
              @Override
@@ -396,11 +395,9 @@ public class Window extends FrameLayout {
 
 
         // icon +  to open the menu list
-        final Button icon = (Button) decorations
+        final ImageButton icon = (ImageButton) decorations
                 .findViewById(R.id.window_icon);
         icon.setBackgroundResource(android.R.drawable.ic_input_add);
-
-
 //		icon.setImageResource(R.drawable.maximize);
         icon.setOnClickListener(new OnClickListener() {
 
@@ -495,6 +492,7 @@ public class Window extends FrameLayout {
 
         // resize
         View corner = decorations.findViewById(R.id.corner);
+//        corner.setBackgroundResource(R.drawable.cornericon);
         corner.setOnTouchListener(new OnTouchListener() {
 
             @Override
