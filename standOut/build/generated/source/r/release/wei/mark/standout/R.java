@@ -24,26 +24,28 @@ public final class R {
         public static int customborder=0x7f020006;
         public static int hide=0x7f020007;
         public static int maximize=0x7f020008;
-        public static int minimizeicon=0x7f020009;
+        public static int maximizeicon=0x7f020009;
+        public static int minimizeicon=0x7f02000a;
     }
     public static final class id {
+        public static int app_icon=0x7f07000a;
         public static int body=0x7f070006;
-        public static int close=0x7f07000e;
+        public static int close=0x7f07000f;
         public static int container=0x7f070001;
         public static int content=0x7f070005;
         public static int corner=0x7f070009;
-        public static int hide=0x7f07000c;
+        public static int hide=0x7f07000d;
         public static int ic_minimize=0x7f070007;
         public static int icon=0x7f070000;
-        public static int maximize=0x7f07000d;
+        public static int maximize=0x7f07000e;
         public static int menuItem1=0x7f070002;
         public static int menuItem2=0x7f070003;
         public static int menuItem3=0x7f070004;
-        public static int one=0x7f07000f;
-        public static int three=0x7f070011;
-        public static int title=0x7f07000b;
-        public static int titlebar=0x7f07000a;
-        public static int two=0x7f070010;
+        public static int one=0x7f070010;
+        public static int three=0x7f070012;
+        public static int title=0x7f07000c;
+        public static int titlebar=0x7f07000b;
+        public static int two=0x7f070011;
         public static int window_icon=0x7f070008;
     }
     public static final class layout {

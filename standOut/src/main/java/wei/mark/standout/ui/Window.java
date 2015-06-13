@@ -397,8 +397,8 @@ public class Window extends FrameLayout {
         // icon +  to open the menu list
         final ImageButton icon = (ImageButton) decorations
                 .findViewById(R.id.window_icon);
-        icon.setBackgroundResource(android.R.drawable.ic_input_add);
-//		icon.setImageResource(R.drawable.maximize);
+//        icon.setBackgroundResource(android.R.drawable.ic_input_add);
+//		icon.setImageResource(R.drawable.maximizeicon);
         icon.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -504,6 +504,18 @@ public class Window extends FrameLayout {
                 return consumed;
             }
         });
+
+
+        View app_icon = decorations.findViewById(R.id.app_icon);
+        app_icon.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+            Log.d(TAG,"left icon working");
+                //TODO here will close the camera and open floating app icon
+            }
+        });
+
+
 
         // set window appearance and behavior based on flags
         if (Utils.isSet(flags, StandOutFlags.FLAG_WINDOW_HIDE_ENABLE)) {

@@ -1456,7 +1456,7 @@ public abstract class StandOutWindow extends Service {
             if (icon instanceof ImageView) {
 //				((ImageView) icon).setImageResource(drawableRes);
 
-                ((ImageView) icon).setImageResource(android.R.drawable.ic_input_add);
+//                ((ImageView) icon).setImageResource(android.R.drawable.ic_input_add);
             }
         }
     }

@@ -31,7 +31,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:background="@android:drawable/ic_input_add" />
+        android:background="@drawable/minimizeicon" />
 
 
 
@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:background="@android:drawable/ic_input_add" />
+        android:background="@drawable/maximizeicon" />
 
 
     <ImageView
@@ -50,7 +50,17 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:contentDescription="@string/corner"
-        android:src="@drawable/cornericon" />
+        android:background="@drawable/cornericon" />
+
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:contentDescription="@string/corner"
+        android:background="@drawable/appicon" />
 
     <LinearLayout
         android:id="@+id/titlebar"
