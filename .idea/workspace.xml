@@ -40,9 +40,6 @@
       </layout>
     </layouts>
   </component>
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="300b7680-4af9-4196-aced-581d839ed6db" name="Default" comment="" />
     <ignored path="example.iws" />
@@ -75,47 +72,83 @@
         <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/ui/Window.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="513" column="76" selection-start-line="513" selection-start-column="76" selection-end-line="513" selection-end-column="76" />
+              <caret line="397" column="14" selection-start-line="383" selection-start-column="10" selection-end-line="397" selection-end-column="14" />
               <folding>
-                <element signature="e#12302#12538#0" expanded="true" />
-                <element signature="e#12537#12538#0" expanded="true" />
-                <element signature="e#15957#16281#0" expanded="true" />
-                <element signature="e#16280#16281#0" expanded="true" />
-                <element signature="e#16461#16788#0" expanded="true" />
-                <element signature="e#16787#16788#0" expanded="true" />
-                <element signature="e#16894#17129#0" expanded="true" />
-                <element signature="e#17128#17129#0" expanded="true" />
-                <element signature="e#20018#20369#0" expanded="true" />
-                <element signature="e#20368#20369#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#3621#4214#0" expanded="true" />
+                <element signature="e#4213#4214#0" expanded="true" />
+                <element signature="e#11246#11247#0" expanded="true" />
+                <element signature="e#11281#11282#0" expanded="true" />
+                <element signature="e#12926#13296#0" expanded="true" />
+                <element signature="e#13295#13296#0" expanded="true" />
+                <element signature="e#13579#13726#0" expanded="true" />
+                <element signature="e#13725#13726#0" expanded="true" />
+                <element signature="e#13890#15581#0" expanded="true" />
+                <element signature="e#15580#15581#0" expanded="true" />
+                <element signature="e#15700#15848#0" expanded="true" />
+                <element signature="e#15847#15848#0" expanded="true" />
+                <element signature="e#16036#16360#0" expanded="true" />
+                <element signature="e#16359#16360#0" expanded="true" />
+                <element signature="e#16540#16867#0" expanded="true" />
+                <element signature="e#16866#16867#0" expanded="true" />
+                <element signature="e#16973#17208#0" expanded="true" />
+                <element signature="e#17207#17208#0" expanded="true" />
+                <element signature="e#18664#18665#0" expanded="true" />
+                <element signature="e#18691#18692#0" expanded="true" />
+                <element signature="e#19395#19786#0" expanded="true" />
+                <element signature="e#19785#19786#0" expanded="true" />
+                <element signature="e#20097#20448#0" expanded="true" />
+                <element signature="e#20447#20448#0" expanded="true" />
+                <element signature="e#24336#24337#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
+                <element signature="e#28604#28605#0" expanded="true" />
+                <element signature="e#28659#28660#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="system_window_decorators.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/standOut/src/main/res/layout/system_window_decorators.xml">
+      <file leaf-file-name="SimpleWindow.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.086330935">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.68670523">
+              <caret line="44" column="166" selection-start-line="44" selection-start-column="166" selection-end-line="44" selection-end-column="166" />
               <folding>
-                <element signature="e#1725#1741#0" expanded="true" />
-                <element signature="e#2065#2081#0" expanded="true" />
-                <element signature="e#3502#3516#0" expanded="true" />
-                <element signature="e#3790#3808#0" expanded="true" />
-                <element signature="e#4076#4091#0" expanded="true" />
+                <element signature="e#951#1290#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
               </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="WidgetsWindow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+              <folding>
+                <element signature="e#943#1331#0" expanded="true" />
+                <element signature="e#1330#1331#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simple.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml">
+      <file leaf-file-name="Preview.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/Preview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.064516">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgets.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/widgets.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.774194">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -124,16 +157,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java">
+      <file leaf-file-name="system_window_decorators.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standOut/src/main/res/layout/system_window_decorators.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.16">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state vertical-scroll-proportion="-20.903225">
+              <caret line="36" column="0" selection-start-line="28" selection-start-column="4" selection-end-line="36" selection-end-column="0" />
               <folding>
-                <element signature="e#885#1149#0" expanded="true" />
-                <element signature="e#1148#1149#0" expanded="true" />
+                <element signature="e#1897#1913#0" expanded="true" />
+                <element signature="e#2234#2250#0" expanded="true" />
+                <element signature="e#3622#3636#0" expanded="true" />
+                <element signature="e#3910#3928#0" expanded="true" />
+                <element signature="e#4196#4211#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -141,7 +180,7 @@
         <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/StandOutWindow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1459" column="13" selection-start-line="1459" selection-start-column="13" selection-end-line="1459" selection-end-column="13" />
+              <caret line="345" column="0" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
               <folding>
                 <element signature="docComment;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;field#DEFAULT_ID#0;class#StandOutWindow#0" expanded="false" />
@@ -153,8 +192,6 @@
                 <element signature="docComment;field#ACTION_CLOSE_ALL#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;field#ACTION_SEND_DATA#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;field#ACTION_HIDE#0;class#StandOutWindow#0" expanded="false" />
-                <element signature="docComment;method#show#0;class#StandOutWindow#0" expanded="false" />
-                <element signature="method#show#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;method#hide#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="method#hide#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;method#close#0;class#StandOutWindow#0" expanded="false" />
@@ -173,7 +210,6 @@
                 <element signature="method#getSendDataIntent#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="initializer##0;class#StandOutWindow#0" expanded="false" />
                 <element signature="method#onCreate#0;class#StandOutWindow#0" expanded="false" />
-                <element signature="method#onStartCommand#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="e#13213#13245#0" expanded="false" />
                 <element signature="e#15025#15074#0" expanded="false" />
                 <element signature="method#onDestroy#0;class#StandOutWindow#0" expanded="false" />
@@ -195,7 +231,6 @@
                 <element signature="e#22436#22463#0" expanded="false" />
                 <element signature="e#22897#22958#0" expanded="false" />
                 <element signature="docComment;method#getHiddenNotification#0;class#StandOutWindow#0" expanded="false" />
-                <element signature="method#getHiddenNotification#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;method#getShowAnimation#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="method#getShowAnimation#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;method#getHideAnimation#0;class#StandOutWindow#0" expanded="false" />
@@ -218,14 +253,11 @@
                 <element signature="docComment;method#onKeyEvent#0;class#StandOutWindow#0" expanded="false" />
                 <element signature="docComment;method#show#1;class#StandOutWindow#0" expanded="false" />
                 <element signature="method#show#1;class#StandOutWindow#0" expanded="false" />
-                <element signature="docComment;method#hide#1;class#StandOutWindow#0" expanded="false" />
-                <element signature="method#hide#1;class#StandOutWindow#0" expanded="false" />
                 <element signature="class#41724:42385" expanded="false" />
                 <element signature="method#onAnimationStart#0;class#41724:42385" expanded="false" />
                 <element signature="method#onAnimationRepeat#0;class#41724:42385" expanded="false" />
                 <element signature="method#onAnimationEnd#0;class#41724:42385" expanded="false" />
                 <element signature="docComment;method#close#1;class#StandOutWindow#0" expanded="false" />
-                <element signature="method#close#1;class#StandOutWindow#0" expanded="false" />
                 <element signature="class#44240:45518" expanded="false" />
                 <element signature="method#onAnimationStart#0;class#44240:45518" expanded="false" />
                 <element signature="method#onAnimationRepeat#0;class#44240:45518" expanded="false" />
@@ -287,24 +319,25 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="simple.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.064516">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StandOutExampleActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/StandOutExampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiWindow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MultiWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="213" column="47" selection-start-line="213" selection-start-column="39" selection-end-line="213" selection-end-column="47" />
-              <folding>
-                <element signature="e#5006#5024#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1924,7 +1957,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../../../Air Messaging/Parse" value="4266088398000" />
-        <entry key="$PROJECT_DIR$" value="5734871721903" />
+        <entry key="$PROJECT_DIR$" value="5735889624846" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2297,8 +2330,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/standOutExample/build.gradle" />
-        <option value="$PROJECT_DIR$/standOut/build.gradle" />
         <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MostBasicWindow.java" />
         <option value="$PROJECT_DIR$/standOut/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/constants/StandOutFlags.java" />
@@ -2309,18 +2340,20 @@
         <option value="$PROJECT_DIR$/standOut/src/main/res/layout/popup_menu.xml" />
         <option value="$PROJECT_DIR$/standOut/src/main/res/layout/popup_menu_layout.xml" />
         <option value="$PROJECT_DIR$/standOut/src/main/res/layout/drop_down_list_item.xml" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/res/layout/widgets.xml" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java" />
         <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/Preview.java" />
         <option value="$PROJECT_DIR$/standOut/src/main/res/drawable-hdpi/customborder.xml" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/StandOutExampleActivity.java" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java" />
-        <option value="$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml" />
         <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MultiWindow.java" />
         <option value="$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/StandOutWindow.java" />
+        <option value="$PROJECT_DIR$/standOut/build.gradle" />
+        <option value="$PROJECT_DIR$/standOutExample/build.gradle" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/StandOutExampleActivity.java" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/ui/Window.java" />
         <option value="$PROJECT_DIR$/standOut/src/main/res/layout/system_window_decorators.xml" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/res/layout/widgets.xml" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml" />
+        <option value="$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java" />
       </list>
     </option>
   </component>
@@ -2388,6 +2421,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="example" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2496,24 +2533,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="standOut" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
@@ -2530,6 +2549,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="standOut" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2794,9 +2817,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0019f6283464bf" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="04956721890c58a9" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="4_3_inch_phone" />
-    <property name="SearchEverywhereHistoryKey" value="widge&#9;PSI&#9;JAVA://wei.mark.example.WidgetsWindow&#10;simplew&#9;PSI&#9;JAVA://wei.mark.example.SimpleWindow&#10;acti&#9;PSI&#9;JAVA://wei.mark.example.StandOutExampleActivity&#10;androidma&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOut/src/main/AndroidManifest.xml&#10;setpara&#9;PSI&#9;JAVA://wei.mark.standout.ui.Window#setLayoutParams&#10;setIcon&#9;PSI&#9;JAVA://wei.mark.standout.StandOutWindow#setIcon&#10;FLAG_DECORATION_SYSTEM&#9;PSI&#9;JAVA://wei.mark.standout.constants.StandOutFlags#FLAG_DECORATION_SYSTEM&#10;getDropDown&#9;PSI&#9;JAVA://wei.mark.standout.StandOutWindow#getDropDown&#10;im clicked!!!!&#9;null&#9;null&#10;SlidingDrawer&#9;PSI&#9;JAVA://android.widget.SlidingDrawer&#10;fixCompatibility&#9;PSI&#9;JAVA://wei.mark.standout.ui.Window#fixCompatibility&#10; android:id=&quot;@+id/hide&quot;&#9;null&#9;null&#10;hide&#9;PSI&#9;JAVA://wei.mark.example.R.drawable#hide&#10;android:id=&quot;@+id/hide&quot;&#9;null&#9;null&#10;appwid&#9;PSI&#9;JAVA://android.appwidget.AppWidgetHost&#10;mCamera.relese&#9;null&#9;null&#10;widgetwindow&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java&#10;setDisplayOrientation&#9;null&#9;null&#10;Pre&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOutExample/src/main/java/wei/mark/example/Preview.java&#10;surfaceCrea&#9;PSI&#9;JAVA://wei.mark.example.Preview#surfaceCreated" />
+    <property name="SearchEverywhereHistoryKey" value="widget&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java&#10;widge&#9;PSI&#9;JAVA://wei.mark.example.WidgetsWindow&#10;simplew&#9;PSI&#9;JAVA://wei.mark.example.SimpleWindow&#10;acti&#9;PSI&#9;JAVA://wei.mark.example.StandOutExampleActivity&#10;androidma&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOut/src/main/AndroidManifest.xml&#10;setpara&#9;PSI&#9;JAVA://wei.mark.standout.ui.Window#setLayoutParams&#10;setIcon&#9;PSI&#9;JAVA://wei.mark.standout.StandOutWindow#setIcon&#10;FLAG_DECORATION_SYSTEM&#9;PSI&#9;JAVA://wei.mark.standout.constants.StandOutFlags#FLAG_DECORATION_SYSTEM&#10;getDropDown&#9;PSI&#9;JAVA://wei.mark.standout.StandOutWindow#getDropDown&#10;im clicked!!!!&#9;null&#9;null&#10;SlidingDrawer&#9;PSI&#9;JAVA://android.widget.SlidingDrawer&#10;fixCompatibility&#9;PSI&#9;JAVA://wei.mark.standout.ui.Window#fixCompatibility&#10; android:id=&quot;@+id/hide&quot;&#9;null&#9;null&#10;hide&#9;PSI&#9;JAVA://wei.mark.example.R.drawable#hide&#10;android:id=&quot;@+id/hide&quot;&#9;null&#9;null&#10;appwid&#9;PSI&#9;JAVA://android.appwidget.AppWidgetHost&#10;mCamera.relese&#9;null&#9;null&#10;widgetwindow&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java&#10;setDisplayOrientation&#9;null&#9;null&#10;Pre&#9;FILE&#9;file://C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOutExample/src/main/java/wei/mark/example/Preview.java&#10;surfaceCrea&#9;PSI&#9;JAVA://wei.mark.example.Preview#surfaceCreated" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="ExportApk.ApkPath" value="C:\Users\Asaf\Desktop\Android_Projects\OdemApps\example\standOutExample" />
@@ -2804,6 +2827,7 @@
     <property name="ExportApk.BuildType" value="debug" />
     <property name="FullScreen" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="244" />
+    <property name="last_opened_file_path" value="$USER_HOME$/workspace/SimpleKeyboard" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -3033,32 +3057,32 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31284916" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31284916" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.50213444" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5875133" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13407822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.49786553" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61787707" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5765363" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19103523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3821229" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37471265" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -3075,21 +3099,21 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31284916" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31284916" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4493063" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19263607" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13407822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3273743" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19103523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6480447" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19103523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3821229" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -3113,16 +3137,35 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="452" column="35" selection-start-line="452" selection-start-column="35" selection-end-line="452" selection-end-column="35" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3143,7 +3186,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
           <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
+            <element signature="e#5006#5024#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3301,16 +3344,35 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="396" column="0" selection-start-line="396" selection-start-column="0" selection-end-line="396" selection-end-column="0" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3331,7 +3393,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
           <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
+            <element signature="e#5006#5024#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3489,16 +3551,35 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="384" column="65" selection-start-line="383" selection-start-column="10" selection-end-line="384" selection-end-column="65" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3519,7 +3600,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
           <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
+            <element signature="e#5006#5024#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3677,16 +3758,35 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="388" column="56" selection-start-line="388" selection-start-column="56" selection-end-line="388" selection-end-column="56" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3707,7 +3807,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
           <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
+            <element signature="e#5006#5024#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3865,16 +3965,35 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="384" column="63" selection-start-line="384" selection-start-column="63" selection-end-line="384" selection-end-column="63" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3902,7 +4021,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="84" column="45" selection-start-line="84" selection-start-column="45" selection-end-line="84" selection-end-column="45" />
           <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
+            <element signature="e#5006#5024#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4055,33 +4174,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10404624">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/Preview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06589595">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/widgets.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/body.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -4106,6 +4198,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-8/android.jar!/android/app/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19744058">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MostBasicWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOutExample/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06428572">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOut/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06428572">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/standOut/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22890173">
@@ -4116,16 +4264,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/standOutExample/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.924581">
-          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml">
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MultiWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.064516">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.33294797">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="e#5006#5024#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOut/src/main/res/layout/system_window_decorators.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.903225">
+          <caret line="36" column="0" selection-start-line="28" selection-start-column="4" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#1897#1913#0" expanded="true" />
+            <element signature="e#2234#2250#0" expanded="true" />
+            <element signature="e#3622#3636#0" expanded="true" />
+            <element signature="e#3910#3928#0" expanded="true" />
+            <element signature="e#4196#4211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/widgets.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.774194">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -4133,39 +4308,29 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/StandOutExampleActivity.java">
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/Preview.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java">
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/res/layout/simple.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.16">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="e#885#1149#0" expanded="true" />
-            <element signature="e#1148#1149#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-4.064516">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/MultiWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="213" column="47" selection-start-line="213" selection-start-column="39" selection-end-line="213" selection-end-column="47" />
-          <folding>
-            <element signature="e#5006#5024#0" expanded="true" />
-          </folding>
-        </state>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/StandOutWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1459" column="13" selection-start-line="1459" selection-start-column="13" selection-end-line="1459" selection-end-column="13" />
+          <caret line="345" column="0" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;field#DEFAULT_ID#0;class#StandOutWindow#0" expanded="false" />
@@ -4177,8 +4342,6 @@
             <element signature="docComment;field#ACTION_CLOSE_ALL#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;field#ACTION_SEND_DATA#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;field#ACTION_HIDE#0;class#StandOutWindow#0" expanded="false" />
-            <element signature="docComment;method#show#0;class#StandOutWindow#0" expanded="false" />
-            <element signature="method#show#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;method#hide#0;class#StandOutWindow#0" expanded="false" />
             <element signature="method#hide#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;method#close#0;class#StandOutWindow#0" expanded="false" />
@@ -4197,7 +4360,6 @@
             <element signature="method#getSendDataIntent#0;class#StandOutWindow#0" expanded="false" />
             <element signature="initializer##0;class#StandOutWindow#0" expanded="false" />
             <element signature="method#onCreate#0;class#StandOutWindow#0" expanded="false" />
-            <element signature="method#onStartCommand#0;class#StandOutWindow#0" expanded="false" />
             <element signature="e#13213#13245#0" expanded="false" />
             <element signature="e#15025#15074#0" expanded="false" />
             <element signature="method#onDestroy#0;class#StandOutWindow#0" expanded="false" />
@@ -4219,7 +4381,6 @@
             <element signature="e#22436#22463#0" expanded="false" />
             <element signature="e#22897#22958#0" expanded="false" />
             <element signature="docComment;method#getHiddenNotification#0;class#StandOutWindow#0" expanded="false" />
-            <element signature="method#getHiddenNotification#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;method#getShowAnimation#0;class#StandOutWindow#0" expanded="false" />
             <element signature="method#getShowAnimation#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;method#getHideAnimation#0;class#StandOutWindow#0" expanded="false" />
@@ -4242,14 +4403,11 @@
             <element signature="docComment;method#onKeyEvent#0;class#StandOutWindow#0" expanded="false" />
             <element signature="docComment;method#show#1;class#StandOutWindow#0" expanded="false" />
             <element signature="method#show#1;class#StandOutWindow#0" expanded="false" />
-            <element signature="docComment;method#hide#1;class#StandOutWindow#0" expanded="false" />
-            <element signature="method#hide#1;class#StandOutWindow#0" expanded="false" />
             <element signature="class#41724:42385" expanded="false" />
             <element signature="method#onAnimationStart#0;class#41724:42385" expanded="false" />
             <element signature="method#onAnimationRepeat#0;class#41724:42385" expanded="false" />
             <element signature="method#onAnimationEnd#0;class#41724:42385" expanded="false" />
             <element signature="docComment;method#close#1;class#StandOutWindow#0" expanded="false" />
-            <element signature="method#close#1;class#StandOutWindow#0" expanded="false" />
             <element signature="class#44240:45518" expanded="false" />
             <element signature="method#onAnimationStart#0;class#44240:45518" expanded="false" />
             <element signature="method#onAnimationRepeat#0;class#44240:45518" expanded="false" />
@@ -4313,37 +4471,69 @@
     <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/ui/Window.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="513" column="76" selection-start-line="513" selection-start-column="76" selection-end-line="513" selection-end-column="76" />
+          <caret line="397" column="14" selection-start-line="383" selection-start-column="10" selection-end-line="397" selection-end-column="14" />
           <folding>
-            <element signature="e#12302#12538#0" expanded="true" />
-            <element signature="e#12537#12538#0" expanded="true" />
-            <element signature="e#15957#16281#0" expanded="true" />
-            <element signature="e#16280#16281#0" expanded="true" />
-            <element signature="e#16461#16788#0" expanded="true" />
-            <element signature="e#16787#16788#0" expanded="true" />
-            <element signature="e#16894#17129#0" expanded="true" />
-            <element signature="e#17128#17129#0" expanded="true" />
-            <element signature="e#20018#20369#0" expanded="true" />
-            <element signature="e#20368#20369#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3621#4214#0" expanded="true" />
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#11246#11247#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#12926#13296#0" expanded="true" />
+            <element signature="e#13295#13296#0" expanded="true" />
+            <element signature="e#13579#13726#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13890#15581#0" expanded="true" />
+            <element signature="e#15580#15581#0" expanded="true" />
+            <element signature="e#15700#15848#0" expanded="true" />
+            <element signature="e#15847#15848#0" expanded="true" />
+            <element signature="e#16036#16360#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16540#16867#0" expanded="true" />
+            <element signature="e#16866#16867#0" expanded="true" />
+            <element signature="e#16973#17208#0" expanded="true" />
+            <element signature="e#17207#17208#0" expanded="true" />
+            <element signature="e#18664#18665#0" expanded="true" />
+            <element signature="e#18691#18692#0" expanded="true" />
+            <element signature="e#19395#19786#0" expanded="true" />
+            <element signature="e#19785#19786#0" expanded="true" />
+            <element signature="e#20097#20448#0" expanded="true" />
+            <element signature="e#20447#20448#0" expanded="true" />
+            <element signature="e#24336#24337#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#28604#28605#0" expanded="true" />
+            <element signature="e#28659#28660#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/standOut/src/main/res/layout/system_window_decorators.xml">
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/WidgetsWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.086330935">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
           <folding>
-            <element signature="e#1725#1741#0" expanded="true" />
-            <element signature="e#2065#2081#0" expanded="true" />
-            <element signature="e#3502#3516#0" expanded="true" />
-            <element signature="e#3790#3808#0" expanded="true" />
-            <element signature="e#4076#4091#0" expanded="true" />
+            <element signature="e#943#1331#0" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
           </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/StandOutExampleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/standOutExample/src/main/java/wei/mark/example/SimpleWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68670523">
+          <caret line="44" column="166" selection-start-line="44" selection-start-column="166" selection-end-line="44" selection-end-column="166" />
+          <folding>
+            <element signature="e#951#1290#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

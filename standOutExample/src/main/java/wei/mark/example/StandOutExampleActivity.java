@@ -26,7 +26,7 @@ public class StandOutExampleActivity extends Activity {
 
         // show a MultiWindow, SimpleWindow
 
-		StandOutWindow.show(this, SimpleWindow.class, 0);
+		StandOutWindow.show(this, SimpleWindow.class,StandOutWindow.DEFAULT_ID);
 
 //		StandOutWindow.show(this, MultiWindow.class, StandOutWindow.DEFAULT_ID);
 

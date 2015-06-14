@@ -56,32 +56,28 @@ ADDED from AndroidManifest.xml:20:5
 activity#wei.mark.example.StandOutExampleActivity
 ADDED from AndroidManifest.xml:25:9
 	android:screenOrientation
-		ADDED from AndroidManifest.xml:28:13
-	android:label
-		ADDED from AndroidManifest.xml:29:13
-	android:excludeFromRecents
 		ADDED from AndroidManifest.xml:27:13
-	android:launchMode
-		ADDED from AndroidManifest.xml:30:13
+	android:label
+		ADDED from AndroidManifest.xml:28:13
 	android:theme
-		ADDED from AndroidManifest.xml:31:13
+		ADDED from AndroidManifest.xml:30:13
 	android:name
 		ADDED from AndroidManifest.xml:26:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:32:13
+ADDED from AndroidManifest.xml:31:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:33:17
+ADDED from AndroidManifest.xml:32:17
 	android:name
-		ADDED from AndroidManifest.xml:33:25
+		ADDED from AndroidManifest.xml:32:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:35:17
+ADDED from AndroidManifest.xml:34:17
 	android:name
-		ADDED from AndroidManifest.xml:35:27
+		ADDED from AndroidManifest.xml:34:27
 service#wei.mark.example.SimpleWindow
-ADDED from AndroidManifest.xml:41:9
+ADDED from AndroidManifest.xml:43:9
 	android:name
-		ADDED from AndroidManifest.xml:41:18
+		ADDED from AndroidManifest.xml:43:18
 service#wei.mark.example.WidgetsWindow
-ADDED from AndroidManifest.xml:42:9
+ADDED from AndroidManifest.xml:44:9
 	android:name
-		ADDED from AndroidManifest.xml:42:18
+		ADDED from AndroidManifest.xml:44:18

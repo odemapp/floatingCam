@@ -6,7 +6,10 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.FrameLayout;
+import android.widget.ImageButton;
+import android.widget.Toast;
 
+import wei.mark.standout.StandOutWindow;
 import wei.mark.standout.ui.Window;
 
 public class WidgetsWindow extends MultiWindow {
@@ -22,8 +25,15 @@ public class WidgetsWindow extends MultiWindow {
         LayoutInflater inflater = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);
         View view = inflater.inflate(R.layout.widgets, frame, true);
 
-
-
+        ImageButton img = (ImageButton) view.findViewById(R.id.ic_minimize);
+        img.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(getApplicationContext(), "HORRAY!",Toast.LENGTH_LONG).show();
+                StandOutWindow.show(getApplicationContext(),SimpleWindow.class,DEFAULT_ID);
+                StandOutWindow.close(getApplicationContext(), WidgetsWindow.class, 1);
+            }
+        });
         // Create our Preview view and set it as the content of our activity.
         FrameLayout preview = (FrameLayout) view.findViewById(R.id.floating_cam_container);
         // Create an instance of Camera

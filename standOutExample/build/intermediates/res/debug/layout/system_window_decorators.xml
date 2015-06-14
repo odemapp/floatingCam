@@ -26,13 +26,14 @@
     </FrameLayout>
 
 
-    <ImageButton
-        android:id="@+id/ic_minimize"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:background="@drawable/minimizeicon" />
-
+    <!--<ImageButton-->
+        <!--android:id="@+id/ic_minimize"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:background="@drawable/minimizeicon"-->
+        <!--android:paddingLeft="5dp"-->
+        <!--android:paddingTop="5dp" />-->
 
 
     <ImageButton
@@ -49,8 +50,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:contentDescription="@string/corner"
-        android:background="@drawable/cornericon" />
+        android:background="@drawable/cornericon"
+        android:contentDescription="@string/corner" />
 
 
     <ImageView
@@ -59,8 +60,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:contentDescription="@string/corner"
-        android:background="@drawable/appicon" />
+        android:background="@drawable/appicon"
+        android:contentDescription="@string/corner" />
 
     <LinearLayout
         android:id="@+id/titlebar"
@@ -84,45 +85,43 @@
         <!--android:contentDescription="@string/window_icon" />-->
 
         <TextView
-        android:id="@+id/title"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="4dp"
-        android:layout_weight="1"
-        android:maxLines="1"
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:text="Title"
+            android:textSize="20sp"
             android:visibility="gone"
-        android:text="Title"
-        android:textSize="20sp"
-        tools:ignore="HardcodedText" />
+            tools:ignore="HardcodedText" />
 
         <ImageView
             android:id="@+id/hide"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:visibility="gone"
-
             android:background="@drawable/hide"
-            android:contentDescription="@string/hide" />
+
+            android:contentDescription="@string/hide"
+            android:visibility="gone" />
 
         <ImageView
-            android:visibility="gone"
             android:id="@+id/maximize"
-
             android:layout_width="32dp"
+
             android:layout_height="32dp"
             android:background="@drawable/maximize"
-            android:contentDescription="@string/maximize" />
+            android:contentDescription="@string/maximize"
+            android:visibility="gone" />
 
         <ImageView
             android:id="@+id/close"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:visibility="gone"
-
             android:background="@drawable/close"
-            android:contentDescription="@string/close" />
 
-
+            android:contentDescription="@string/close"
+            android:visibility="gone" />
 
 
     </LinearLayout>
