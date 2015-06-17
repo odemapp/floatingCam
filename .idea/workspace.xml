@@ -8,119 +8,7 @@
   <component name="ChangeListManager">
     <list id="d5c1ef3b-e99b-4354-98c5-f11c5b541829" name="Default" comment="" />
     <list default="true" id="99499b0f-fa2f-46a4-b51a-a9ca580eeb02" name="asaf " comment="we did it!!!">
-      <change type="DELETED" beforePath="C:\Users\gil-l\AndroidStudioProjects\floatingCam\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gil-l\AndroidStudioProjects\floatingCam\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gil-l\AndroidStudioProjects\floatingCam\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gil-l\AndroidStudioProjects\floatingCam\build\intermediates\gradle_project_sync_data.bin" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/BuildConfig.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$attr.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$color.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$drawable.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$id.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$layout.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$menu.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$string.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/constants/StandOutFlags.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/constants/StandOutFlags.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$1.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$2.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$3.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$4.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$DropDownListItem.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$DropDownListItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$StandOutLayoutParams.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow$StandOutLayoutParams.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/StandOutWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/release/wei/mark/standout/StandOutWindow.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/release/wei/mark/standout/StandOutWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/TouchInfo.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/TouchInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/Utils.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/Utils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$1.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$2.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$3.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$4.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$5.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$6.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$7.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$8.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$9.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$Editor.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$WindowDataKeys.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window$WindowDataKeys.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/ui/Window.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/WindowCache.class" afterPath="$PROJECT_DIR$/standOut/build/intermediates/classes/debug/wei/mark/standout/WindowCache.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/standOut/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/outputs/aar/standOut-debug.aar" afterPath="$PROJECT_DIR$/standOut/build/outputs/aar/standOut-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/outputs/aar/standOut-release.aar" afterPath="$PROJECT_DIR$/standOut/build/outputs/aar/standOut-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/generated/source/buildConfig/androidTest/debug/wei/mark/example/test/BuildConfig.java" afterPath="$PROJECT_DIR$/standOutExample/build/generated/source/buildConfig/androidTest/debug/wei/mark/example/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/generated/source/buildConfig/debug/wei/mark/example/BuildConfig.java" afterPath="$PROJECT_DIR$/standOutExample/build/generated/source/buildConfig/debug/wei/mark/example/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/androidTest/debug/wei/mark/standout/test/BuildConfig.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/androidTest/debug/wei/mark/standout/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/debug/wei/mark/standout/BuildConfig.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/debug/wei/mark/standout/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/release/wei/mark/standout/BuildConfig.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/buildConfig/release/wei/mark/standout/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/generated/source/r/debug/wei/mark/standout/R.java" afterPath="$PROJECT_DIR$/standOutExample/build/generated/source/r/debug/wei/mark/standout/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/r/androidTest/debug/wei/mark/standout/R.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/r/androidTest/debug/wei/mark/standout/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/r/androidTest/debug/wei/mark/standout/test/R.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/r/androidTest/debug/wei/mark/standout/test/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/generated/source/r/debug/wei/mark/standout/R.java" afterPath="$PROJECT_DIR$/standOut/build/generated/source/r/debug/wei/mark/standout/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/standOut/build/intermediates/symbols/androidTest/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/constants/StandOutFlags.java" afterPath="$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/constants/StandOutFlags.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/body.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/body.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/drawable-hdpi/customborder.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/drawable-hdpi/customborder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/drawable-hdpi/customborder.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/drawable-hdpi/customborder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/drop_down_list_item.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/drop_down_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/drop_down_list_item.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/drop_down_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/drop_down_list_item.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/drop_down_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/drop_down_list_item.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/drop_down_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/standOutExample/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/incremental/packageResources/release/merger.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/incremental/packageResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/popup_menu_layout.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/popup_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/popup_menu_layout.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/popup_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/popup_menu_layout.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/popup_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/popup_menu_layout.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/popup_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/menu/poupup_menu.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/menu/poupup_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/menu/poupup_menu.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/menu/poupup_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/menu/poupup_menu.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/menu/poupup_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/menu/poupup_menu.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/menu/poupup_menu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/simple.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/simple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/standOut.iml" afterPath="$PROJECT_DIR$/standOut/standOut.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/standOutExample.iml" afterPath="$PROJECT_DIR$/standOutExample/standOutExample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/system_window_decorators.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/system_window_decorators.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/system_window_decorators.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/layout/system_window_decorators.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/system_window_decorators.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/layout/system_window_decorators.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/system_window_decorators.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/layout/system_window_decorators.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/standOut/build/intermediates/res/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/widgets.xml" afterPath="$PROJECT_DIR$/standOutExample/build/intermediates/res/debug/layout/widgets.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="floatingCam.iws" />
@@ -162,8 +50,8 @@
       <file leaf-file-name="StandOutFlags.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/constants/StandOutFlags.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4112478">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -2302,6 +2190,13 @@
       <option name="number" value="Default" />
       <updated>1434551148486</updated>
     </task>
+    <task id="LOCAL-00001" summary="we did it!!!">
+      <created>1434552341668</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1434552341668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2312,7 +2207,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30872482" sideWeight="0.49359658" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997763" sideWeight="0.5064034" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5064034" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997763" sideWeight="0.49359658" order="7" side_tool="false" content_ui="tabs" />
@@ -2348,6 +2243,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="we did it!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="we did it!!!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2389,8 +2286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/standOut/src/main/java/wei/mark/standout/constants/StandOutFlags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4112478">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>

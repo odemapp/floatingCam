@@ -15,7 +15,7 @@ import android.view.View;
 public class StandOutFlags {
 	// This counter keeps track of which primary bit to set for each flag
 	private static int flag_bit = 0;
-		///hguthughtu
+		///asaf i love youuuuu!!!
 
 
 	/**
