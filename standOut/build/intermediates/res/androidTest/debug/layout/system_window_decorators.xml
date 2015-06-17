@@ -2,9 +2,9 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/content"
-    android:layout_width="200dp"
-    android:layout_height="200dp"
-    android:background="@drawable/border">
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
 
     <FrameLayout
         android:id="@+id/body"
@@ -23,14 +23,26 @@
         <!--android:layout_gravity="right|top" />-->
 
 
-        <Button
-            android:id="@+id/window_icon"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-
-            android:background="@android:drawable/ic_menu_add"
-            android:layout_gravity="right|top" />
     </FrameLayout>
+
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/ic_minimize"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:background="@drawable/minimizeicon"-->
+        <!--android:paddingLeft="5dp"-->
+        <!--android:paddingTop="5dp" />-->
+
+
+    <ImageButton
+        android:id="@+id/window_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/maximizeicon" />
+
 
     <ImageView
         android:id="@+id/corner"
@@ -38,8 +50,18 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:contentDescription="@string/corner"
-        android:src="@drawable/corner" />
+        android:background="@drawable/cornericon"
+        android:contentDescription="@string/corner" />
+
+
+    <ImageView
+        android:id="@+id/app_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/appicon"
+        android:contentDescription="@string/corner" />
 
     <LinearLayout
         android:id="@+id/titlebar"
@@ -71,30 +93,37 @@
             android:maxLines="1"
             android:text="Title"
             android:textSize="20sp"
+            android:visibility="gone"
             tools:ignore="HardcodedText" />
 
         <ImageView
             android:id="@+id/hide"
             android:layout_width="32dp"
             android:layout_height="32dp"
-
             android:background="@drawable/hide"
-            android:contentDescription="@string/hide" />
+
+            android:contentDescription="@string/hide"
+            android:visibility="gone" />
 
         <ImageView
             android:id="@+id/maximize"
-
             android:layout_width="32dp"
+
             android:layout_height="32dp"
             android:background="@drawable/maximize"
-            android:contentDescription="@string/maximize" />
+            android:contentDescription="@string/maximize"
+            android:visibility="gone" />
 
         <ImageView
             android:id="@+id/close"
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:background="@drawable/close"
-            android:contentDescription="@string/close" />
+
+            android:contentDescription="@string/close"
+            android:visibility="gone" />
+
+
     </LinearLayout>
 
-</RelativeLayout><!-- From: file:/C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOut/src/main/res/layout/system_window_decorators.xml --><!-- From: file:/C:/Users/Asaf/Desktop/Android_Projects/OdemApps/example/standOut/build/intermediates/bundles/debug/res/layout/system_window_decorators.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/gil-l/AndroidStudioProjects/floatingCam/standOut/src/main/res/layout/system_window_decorators.xml --><!-- From: file:/C:/Users/gil-l/AndroidStudioProjects/floatingCam/standOut/build/intermediates/bundles/debug/res/layout/system_window_decorators.xml -->
